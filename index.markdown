@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: About
 ---
 
 I am currently working at [Boussard Lab](https://med.stanford.edu/boussard-lab.html), [BMIR](https://bmir.stanford.edu/), Stanford University as a postdoctoral scholar. 
