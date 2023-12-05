@@ -22,7 +22,7 @@ I have worked in the field of functional genomics - single nucleotide polymorphi
 - Ph.D. Clinical Informatics, IIT Kharagpur, India
 	- I have been fortunate to work with amazing mentors during my PhD 
 		- [Prof. Sangeeta Das Bhattacharya](https://www.iitkgp.ac.in/department/MM/faculty/mm-sangeeta)
-		- [Prof. Jayanta Mukhopadhyay](http://www.facweb.iitkgp.ac.in/~jay/)
+		- [Prof. Jayanta Mukhopadhyay](https://www.iitkgp.ac.in/department/CS/faculty/cs-jay)
 		- [Dr. Shekhar Krishnan](https://www.ttcrc.org/shekhar-krishnan/) 
 - M.Tech, Computer Science and Engg, MIT Manipal, India 
 - B.E Computer Engg, SVPCET, Nagpur, India 
