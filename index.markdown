@@ -6,7 +6,7 @@ layout: default
 title: About
 ---
 
-**Tushar Mungle**
+#**Tushar Mungle**
 
 I am currently working at [Boussard Lab](https://med.stanford.edu/boussard-lab.html), [BMIR](https://bmir.stanford.edu/), Stanford University as a postdoctoral scholar. 
 
