@@ -62,4 +62,4 @@ permalink: /projects/
 	- Methods: k-means; fuzzy c-means; spectral clustering, markov random fields; ensemble learning; neural networks
 
 
-[Homepage](/index/)
+[Homepage](/tmungle.github.io/index/)
