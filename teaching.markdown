@@ -44,4 +44,4 @@ Interns: [Srijita Sen](https://www.linkedin.com/in/srijita-sen-60048a218/), [Ana
 <ins>Stanford University</ins> <br>
 Science Small Group: Tyler Sheridan and Rohan Bodla<br>
 
-[Homepage](/index/)
+[Homepage](/index.markdown/)
