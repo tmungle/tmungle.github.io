@@ -6,8 +6,6 @@ layout: default
 title: About
 ---
 
-#**Tushar Mungle**
-
 I am currently working at [Boussard Lab](https://med.stanford.edu/boussard-lab.html), [BMIR](https://bmir.stanford.edu/), Stanford University as a postdoctoral scholar. 
 
 My research is in the area of clinical informatics. The work focus on provding evidence-base for a clinical problem and devloping implementable solutions/systems for the same. It involves analyzing structured and non-structured clinical data using statistical and machine learning methods (especially natural language processing) followed by development of softwares/tools. The reaserch aims to assist physicians better understand and correlate data pertaining to treatment regimes, drugs and its effect on patient's treatment journey in terms of toxicity, treatment cost, health policy or outcome of interests. 
