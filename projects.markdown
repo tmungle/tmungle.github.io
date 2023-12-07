@@ -50,7 +50,7 @@ permalink: /projects/
 	- Correlation of *TPMT*, *NUDT15* and *ITPA* single nucleotide polymorphism with anti-metabolites and pre-maintenance therapy blood parameters.
 
 - *IKZF1* gene insertion and deletion analysis using BlueFuse software. 
-	- Illumina Beeline software was used to convert IDAT files to GTC. GRCh38 reference annotation database for CytoSNP-850K module was used for analysis. Interpretation of the log r ratio and B allele freq to conclude homozygous or hertozygous gain/deletion was performed. 
+	- Illumina Beeline software was used to convert IDAT files to GTC. GRCh38 reference annotation database for CytoSNP-850K module was used for analysis. Visual analysis and interpretation of the log r ratio and B allele freq to conclude homozygous or hertozygous gain/deletion was performed. 
 
 ---
 <br>
