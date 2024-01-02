@@ -29,14 +29,14 @@ permalink: /projects/
 		- Developed a pill reminder mobile application for patients 	 
 	- Pilot study to understand the effect of allopurinol adjuvant during MT
 		- <ins>Translation and Clinical Relevance</ins>: Study showed clinical benefit in mitigating non-haematological 6MP toxicity. However, close monitoring with this intervention along with pharmacological monitoring is required in future. 
-	- Evolution of virtual care management of MT in ALL at TMC
+	- [Evolution of virtual care management of MT in ALL at TMC](https://journals.lww.com/jpho-online/fulltext/9900/hybrid_email_and_outpatient_clinics_to_optimize.343.aspx)
 		- <ins>Translation and Clinical Relevance</ins>: The transition from in-person visits to e-mailing the blood count reports during MT reduced the financial burden and improved quality of life for patients and families <br>
 
-- Evaluated treatment cost and cost-effectiveness of a risk-stratified therapy to treat pediatric ALL
+- Evaluated [treatment cost and cost-effectiveness of a risk-stratified therapy to treat pediatric ALL](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.5140)
 	- <ins>Translation and Clinical Relevance</ins>: The cost-effective risk-stratified approach reduced the ALL treatment cost for standard and intermediate risk patients through decreased inpatient admissions, as compared to high risk patients <br>
 
 - Analyzing clinical characteristics and outcome data of patients with (A) IKZF1 gene-deleted ALL;
-(B) Gallbladder cancer
+(B) [Gallbladder cancer](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.5677)
 	- <ins>Brief</ins>: EMR data for demography, treatment and treatment response, pathology and outcome was extracted and analyzed to understand the target population
 
 - Smart Heart Project
