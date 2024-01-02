@@ -25,9 +25,9 @@ permalink: /projects/
 		- Developed [allMT R library](https://cran.r-project.org/web/packages/allMT/index.html) to analyze MT data
 		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/) as an assitive and audit tool for physicians to deliver optimal MT
 	- Modelling clinical decision processes 
-		- Developed a dose advice software prototype to assist physician in personalizing dose prescription during MT
+		- Developed a [dose advice software prototype](https://www.sciencedirect.com/journal/pediatric-hematology-oncology-journal/vol/5/issue/4/suppl/S) to assist physician in personalizing dose prescription during MT
 		- Developed a pill reminder mobile application for patients 	 
-	- Pilot study to understand the effect of allopurinol adjuvant during MT
+	- Pilot study to understand the [effect of allopurinol adjuvant during MT](https://www.sciencedirect.com/journal/pediatric-hematology-oncology-journal/vol/7/issue/4/suppl/S?page=2)
 		- <ins>Translation and Clinical Relevance</ins>: Study showed clinical benefit in mitigating non-haematological 6MP toxicity. However, close monitoring with this intervention along with pharmacological monitoring is required in future. 
 	- [Evolution of virtual care management of MT in ALL at TMC](https://journals.lww.com/jpho-online/fulltext/9900/hybrid_email_and_outpatient_clinics_to_optimize.343.aspx)
 		- <ins>Translation and Clinical Relevance</ins>: The transition from in-person visits to e-mailing the blood count reports during MT reduced the financial burden and improved quality of life for patients and families <br>
