@@ -32,7 +32,7 @@ permalink: /projects/
 	- [Evolution of virtual care management of MT in ALL at TMC](https://journals.lww.com/jpho-online/fulltext/9900/hybrid_email_and_outpatient_clinics_to_optimize.343.aspx)
 		- <ins>Translation and Clinical Relevance</ins>: The transition from in-person visits to e-mailing the blood count reports during MT reduced the financial burden and improved quality of life for patients and families <br>
 
-- Evaluated [treatment cost and cost-effectiveness of a risk-stratified therapy to treat pediatric ALL](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.5140)
+- Evaluated [treatment cost and cost-effectiveness of a risk-stratified therapy to treat pediatric ALL](https://journals.lww.com/jpho-online/fulltext/2024/01000/hybrid_email_and_outpatient_clinics_to_optimize.7.aspx)
 	- <ins>Translation and Clinical Relevance</ins>: The cost-effective risk-stratified approach reduced the ALL treatment cost for standard and intermediate risk patients through decreased inpatient admissions, as compared to high risk patients <br>
 
 - Analyzing clinical characteristics and outcome data of patients with (A) IKZF1 gene-deleted ALL;
