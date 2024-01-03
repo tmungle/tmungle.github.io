@@ -18,15 +18,15 @@ permalink: /teaching/
 
 - Introduction to R programming and biosatistics at TTCRC, Tata Medical Center, Kolkata
 	- Module 1: Introduction to R software and RStudio, Variables and data types
-	- Module 2: (a) Vectors, lists, matrics and dataframe
-	- Module 2b: Conditional and control statments, loops and functions
+	- Module 2: (a) Vectors, lists, matrices and dataframe
+	- Module 2b: Conditional and control statements, loops and functions
 	- Module 3: R packages, working with excel/csv,
 	- Module 3a: Introduction to tidyverse
 	- Module 4a: Data visualization - Aesthetics, Geometries, and themes
-	- Module 4b: Exploratory analysis; Basic/Descriptive statisctics
+	- Module 4b: Exploratory analysis; Basic/Descriptive statistics
 	- Module 4c: Data visualization and statistics (Part I)
 	- Module 5a: Hypothesis testing and parametric and non-parametric test
-	- Module 5b: Comapring means and proportions
+	- Module 5b: Comparing means and proportions
 	- Module 5c: Data visualization and statistics (Part II)
 	- Misc: Dates, missing data, data wrangling, survival analysis, tidyverse + ggplot
 
