@@ -7,7 +7,7 @@ permalink: /projects/
 
 **Current Projects** (March 2023 onwards - ongoing) <br>
 
-**<ins>Clincial Informatics</ins>** 
+**<ins>Clinical Informatics</ins>** 
 - Inflammatory Bowel Disease Outcomes among Hospitalized Homeless Individuals
 	- The study analysed impact of homelessness on endoscopy utilization, surgical treatment and post-operative complications among hospitalized patients with ulcerative colitis and Crohn's disease. 
 - Identification of common ocular phenotypes using EHR data
@@ -16,14 +16,14 @@ permalink: /projects/
 <br>
 **Projects completed** (2018 - March 2023) <br>
 
-**<ins>Clincial Informatics</ins>**
+**<ins>Clinical Informatics</ins>**
 
 - Methods/tools and proof-of-concepts to assits physicians in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) 
 	- Develop a [data repository](https://data.mendeley.com/datasets/775hs9wrb5/1) for MT from paper and electronic based records 
-	- Analyzing MT practice for patients who completed ALL tretment
+	- Analyzing MT practice for patients who completed ALL treatment
 		- <ins>Translation and Clinical Relevance</ins>: Dosing protocol was revisited by hospital’s pediatric ALL team and attempts were made to adhere to the MT protocol
 		- Developed [allMT R library](https://cran.r-project.org/web/packages/allMT/index.html) to analyze MT data
-		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/) as an assitive and audit tool for physicians to deliver optimal MT
+		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/) as an assistive and audit tool for physicians to deliver optimal MT
 	- Modelling clinical decision processes 
 		- Developed a [dose advice software prototype](https://www.sciencedirect.com/journal/pediatric-hematology-oncology-journal/vol/5/issue/4/suppl/S) to assist physician in personalizing dose prescription during MT
 		- Developed a pill reminder mobile application for patients 	 
@@ -50,7 +50,7 @@ permalink: /projects/
 	- Correlation of *TPMT*, *NUDT15* and *ITPA* single nucleotide polymorphism with anti-metabolites and pre-maintenance therapy blood parameters.
 
 - *IKZF1* gene insertion and deletion analysis using BlueFuse software. 
-	- Illumina Beeline software was used to convert IDAT files to GTC. GRCh38 reference annotation database for CytoSNP-850K module was used for analysis. Visual analysis and interpretation of the log r ratio and B allele freq to conclude homozygous or hertozygous gain/deletion was performed. 
+	- Illumina Beeline software was used to convert IDAT files to GTC. GRCh38 reference annotation database for CytoSNP-850K module was used for analysis. Visual analysis and interpretation of the log r ratio and B allele freq to conclude homozygous or heterozygous gain/deletion was performed. 
 
 ---
 <br>
