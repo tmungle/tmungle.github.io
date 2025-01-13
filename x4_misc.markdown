@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Misc
-permalink: /5_misc/
+permalink: /x4_misc/
 order: 5
 ---
 

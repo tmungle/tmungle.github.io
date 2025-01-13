@@ -1,0 +1,12 @@
+open terminal
+travel to the website folder
+enter - bundle exec jekyll serve
+
+
+
+Make sure you have Ruby installed. You can verify this by typing ruby -v into your terminal. If Ruby is installed, you should see a version number. If it's not, you'll need to install it.
+The Gemfile indicates that you're using Bundler to manage your Ruby gems. Install Bundler by typing the following command in your terminal: gem install bundler.
+Navigate to your folder containing the website files by using the cd command. For instance, if your folder is desktop/website, type: cd desktop/website.
+Once inside the folder, install the necessary gems by using Bundler. You can do this by typing: bundle install. This will install the gems specified in your Gemfile.
+After all the gems have been installed, you can compile and serve the website with the command: bundle exec jekyll serve.
+Finally, open a web browser and navigate to http://localhost:4000 to see your site.

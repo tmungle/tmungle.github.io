@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-permalink: /4_publications/
+permalink: /x3_publications/
 order: 3
 ---
 

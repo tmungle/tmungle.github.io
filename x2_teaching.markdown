@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching
-permalink: /3_teaching/
+permalink: /x2_teaching/
 order: 4
 ---
 

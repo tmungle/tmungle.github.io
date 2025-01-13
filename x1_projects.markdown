@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-permalink: /2_projects/
+permalink: /x1_projects/
 order: 2
 ---
 
