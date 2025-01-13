@@ -2,41 +2,50 @@
 layout: default
 title: Projects
 permalink: /projects/
+order: 2
 ---
 
 
-**Current Projects** (March 2023 onwards - ongoing) <br>
+**Current Projects** (July 2023 onwards - ongoing) <br>
 
-**<ins>Clinical Informatics</ins>** 
+**<ins>Clincial Informatics</ins>** 
+- Advancing Ocular Phenotype Identification using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
+	- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to identify (and annotate) phenotypes as compared to traditional methods thereby by reducing human efforts
+	- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
+- Enhancing Accurate Identification of Occular Phenotypes from Real-World Datasets [(**Graphical Abstract**)](/photo/GLA_Ensemble.pdf){:target="_blank"}
+	- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
+	- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability. 
+- Assessment of Acute Lymphoblastic Leukemia (ALL) Maintenance Therapy (MT) Practice at LPCH Hospital, Stanford using allMT R library and VIATAMIN application (***Co-Investigator***)
+	- The objective is to utilize the allMT and VIATAMIN application to analyze MT data for LPCH hospital ALL patients, and test the adaptability and generalizability of the tools in diverse healthcare settings, contributing to broader use.
 - Inflammatory Bowel Disease Outcomes among Hospitalized Homeless Individuals
-	- The study analysed impact of homelessness on endoscopy utilization, surgical treatment and post-operative complications among hospitalized patients with ulcerative colitis and Crohn's disease. 
-- Identification of common ocular phenotypes using EHR data
+	- The study analysed impact of homelessness on endoscopy utilization, surgical treatment and post-operative complications among hospitalized patients with ulcerative colitis and Crohn's disease using propensity score matching method.
+
 
 --- 
 <br>
 **Projects completed** (2018 - March 2023) <br>
 
-**<ins>Clinical Informatics</ins>**
+**<ins>Clincial Informatics</ins>**
 
-- Methods/tools and proof-of-concepts to assits physicians in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) 
+- Methods/tools and proof-of-concepts to assits physicians in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) [(**Graphical Abstract**)](/photo/ALL_MT.pdf){:target="_blank"}
 	- Develop a [data repository](https://data.mendeley.com/datasets/775hs9wrb5/1) for MT from paper and electronic based records 
-	- Analyzing MT practice for patients who completed ALL treatment
+	- Analyzing MT practice for patients who completed ALL tretment
 		- <ins>Translation and Clinical Relevance</ins>: Dosing protocol was revisited by hospital’s pediatric ALL team and attempts were made to adhere to the MT protocol
 		- Developed [allMT R library](https://cran.r-project.org/web/packages/allMT/index.html) to analyze MT data
-		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/) as an assistive and audit tool for physicians to deliver optimal MT
+		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/) as an assitive and audit tool for physicians to deliver optimal MT
 	- Modelling clinical decision processes 
-		- Developed a [dose advice software prototype](https://www.sciencedirect.com/journal/pediatric-hematology-oncology-journal/vol/5/issue/4/suppl/S) to assist physician in personalizing dose prescription during MT
+		- Developed a dose advice software prototype to assist physician in personalizing dose prescription during MT
 		- Developed a pill reminder mobile application for patients 	 
-	- Pilot study to understand the [effect of allopurinol adjuvant during MT](https://www.sciencedirect.com/journal/pediatric-hematology-oncology-journal/vol/7/issue/4/suppl/S?page=2)
+	- Pilot study to understand the effect of allopurinol adjuvant during MT
 		- <ins>Translation and Clinical Relevance</ins>: Study showed clinical benefit in mitigating non-haematological 6MP toxicity. However, close monitoring with this intervention along with pharmacological monitoring is required in future. 
-	- [Evolution of virtual care management of MT in ALL at TMC](https://journals.lww.com/jpho-online/fulltext/9900/hybrid_email_and_outpatient_clinics_to_optimize.343.aspx)
+	- Evolution of virtual care management of MT in ALL at TMC
 		- <ins>Translation and Clinical Relevance</ins>: The transition from in-person visits to e-mailing the blood count reports during MT reduced the financial burden and improved quality of life for patients and families <br>
 
-- Evaluated [treatment cost and cost-effectiveness of a risk-stratified therapy to treat pediatric ALL](https://journals.lww.com/jpho-online/fulltext/2024/01000/hybrid_email_and_outpatient_clinics_to_optimize.7.aspx)
+- Evaluated treatment cost and cost-effectiveness of a risk-stratified therapy to treat pediatric ALL
 	- <ins>Translation and Clinical Relevance</ins>: The cost-effective risk-stratified approach reduced the ALL treatment cost for standard and intermediate risk patients through decreased inpatient admissions, as compared to high risk patients <br>
 
 - Analyzing clinical characteristics and outcome data of patients with (A) IKZF1 gene-deleted ALL;
-(B) [Gallbladder cancer](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.5677)
+(B) Gallbladder cancer
 	- <ins>Brief</ins>: EMR data for demography, treatment and treatment response, pathology and outcome was extracted and analyzed to understand the target population
 
 - Smart Heart Project
@@ -50,7 +59,7 @@ permalink: /projects/
 	- Correlation of *TPMT*, *NUDT15* and *ITPA* single nucleotide polymorphism with anti-metabolites and pre-maintenance therapy blood parameters.
 
 - *IKZF1* gene insertion and deletion analysis using BlueFuse software. 
-	- Illumina Beeline software was used to convert IDAT files to GTC. GRCh38 reference annotation database for CytoSNP-850K module was used for analysis. Visual analysis and interpretation of the log r ratio and B allele freq to conclude homozygous or heterozygous gain/deletion was performed. 
+	- Illumina Beeline software was used to convert IDAT files to GTC. GRCh38 reference annotation database for CytoSNP-850K module was for analysis. 
 
 ---
 <br>
@@ -62,4 +71,4 @@ permalink: /projects/
 	- Methods: k-means; fuzzy c-means; spectral clustering, markov random fields; ensemble learning; neural networks
 
 
-[Homepage](/index.markdown/)
+[Homepage](/index/)
