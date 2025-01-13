@@ -18,7 +18,7 @@ order: 2
 - Assessment of Acute Lymphoblastic Leukemia (ALL) Maintenance Therapy (MT) Practice at LPCH Hospital, Stanford using allMT R library and VIATAMIN application (***Co-Investigator***)
 	- The objective is to utilize the allMT and VIATAMIN application to analyze MT data for LPCH hospital ALL patients, and test the adaptability and generalizability of the tools in diverse healthcare settings, contributing to broader use.
 - Inflammatory Bowel Disease Outcomes among Hospitalized Homeless Individuals
-	- The study analysed impact of homelessness on endoscopy utilization, surgical treatment and post-operative complications among hospitalized patients with ulcerative colitis and Crohn's disease using propensity score matching method.
+	- Propensity score matching methods was used to analysed impact of homelessness on endoscopy utilization, surgical treatment and post-operative complications among hospitalized patients with ulcerative colitis and Crohn's disease.
 
 
 --- 
