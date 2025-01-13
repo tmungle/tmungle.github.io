@@ -10,7 +10,7 @@ order: 1
 ## Tushar Mungle
 
 <div style="display: flex; align-items: flex-start;">	
-  <img src="/photo/TusharMungle1.jpg" alt="Tushar Mungle" width="200" style="margin-right: 10px;"/> 
+  <img src="/media/TusharMungle1.jpg" alt="Tushar Mungle" width="200" style="margin-right: 10px;"/> 
   <div style="text-align: justify;">
     <p>I am postdoctoral scholar at <a href="https://med.stanford.edu/boussard-lab.html">Boussard Lab</a>, <a href="https://bmir.stanford.edu/">BMIR</a>, Stanford University.</p>
     <p>I work in the field of clinical/medical informatics with an interest in using real-world data. The work focuses on provding evidence-base for clinical problems and devloping implementable solutions/systems. The research aims to assist various stakeholders in the hospital settings that can significantly impact and improve patient outcomes, health care delivery and policies. I have keen interest in building technology-base solutions for clinicans and patients. 
