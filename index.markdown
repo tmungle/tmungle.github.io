@@ -7,8 +7,6 @@ title: About
 order: 1
 ---
 
-## Tushar Mungle
-
 <div style="display: flex; align-items: flex-start;">	
   <img src="/media/TusharMungle1.jpg" alt="Tushar Mungle" width="200" style="margin-right: 10px;"/> 
   <div style="text-align: justify;">
