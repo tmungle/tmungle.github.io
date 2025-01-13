@@ -2,6 +2,7 @@
 layout: default
 title: Teaching
 permalink: /teaching/
+order: 4
 ---
 
 
@@ -11,22 +12,23 @@ permalink: /teaching/
 
 **Teaching Assistantships**
 
-- Pattern Recognition & Machine Intelligence in Medicine at SMST, IIT Kharagpur (’15-’16; Spring)
+- Deploying and Evaluating Fair AI in Healthcare (BIOMED 223), Stanford University (2024 Spring)
+- Pattern Recognition & Machine Intelligence in Medicine at SMST, IIT Kharagpur x(’15-’16; Spring)
 - Quantitative Techniques in Medicine at SMST, IIT Kharagpur, (’15-’16; Autumn)
 
 **Course Developed** 
 
 - Introduction to R programming and biosatistics at TTCRC, Tata Medical Center, Kolkata
 	- Module 1: Introduction to R software and RStudio, Variables and data types
-	- Module 2: (a) Vectors, lists, matrices and dataframe
-	- Module 2b: Conditional and control statements, loops and functions
+	- Module 2: (a) Vectors, lists, matrics and dataframe
+	- Module 2b: Conditional and control statments, loops and functions
 	- Module 3: R packages, working with excel/csv,
 	- Module 3a: Introduction to tidyverse
 	- Module 4a: Data visualization - Aesthetics, Geometries, and themes
-	- Module 4b: Exploratory analysis; Basic/Descriptive statistics
+	- Module 4b: Exploratory analysis; Basic/Descriptive statisctics
 	- Module 4c: Data visualization and statistics (Part I)
 	- Module 5a: Hypothesis testing and parametric and non-parametric test
-	- Module 5b: Comparing means and proportions
+	- Module 5b: Comapring means and proportions
 	- Module 5c: Data visualization and statistics (Part II)
 	- Misc: Dates, missing data, data wrangling, survival analysis, tidyverse + ggplot
 
@@ -43,5 +45,6 @@ Interns: [Srijita Sen](https://www.linkedin.com/in/srijita-sen-60048a218/), [Ana
 
 <ins>Stanford University</ins> <br>
 Science Small Group: Tyler Sheridan and Rohan Bodla<br>
+[Shruti Banerjie](https://www.linkedin.com/in/shruti-banerjie/)
 
-[Homepage](/index.markdown/)
+[Homepage](/index/)
