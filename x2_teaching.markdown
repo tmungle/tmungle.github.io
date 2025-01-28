@@ -47,4 +47,4 @@ Interns: [Srijita Sen](https://www.linkedin.com/in/srijita-sen-60048a218/), [Ana
 Science Small Group: Tyler Sheridan and Rohan Bodla<br>
 [Shruti Banerjie](https://www.linkedin.com/in/shruti-banerjie/)
 
-[Homepage](/index/)
+[Homepage](/)
