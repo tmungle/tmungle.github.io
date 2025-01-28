@@ -16,7 +16,9 @@ order: 2
 		- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
 	- Using Expalainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
 		- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
-		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability. 
+		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability.
+- **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
+<ins>Collaborators</ins>: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
 - Assessment of Acute Lymphoblastic Leukemia (ALL) Maintenance Therapy (MT) Practice at LPCH Hospital, Stanford using allMT R library and VIATAMIN application (***Co-Investigator***)
 <ins>Collaborators</ins>: Pediatric Hematology, Oncology, Stem Cell Transplantation & Regenerative Medicine, Stanford University
 	- The objective is to utilize the allMT and VIATAMIN application to analyze MT data for LPCH hospital ALL patients, and test the adaptability and generalizability of the tools in diverse healthcare settings, contributing to broader use.
