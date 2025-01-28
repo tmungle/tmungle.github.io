@@ -8,7 +8,6 @@ order: 2
 
 **Current Projects** (July 2023 onwards - ongoing) <br>
 
-**<ins>Clincial Informatics</ins>** 
 - **Advancing Ocular Phenotype Identification Using Real-World Datasets**
   <u>Collaborators</u>: University of Michigan
   	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
