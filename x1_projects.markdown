@@ -27,6 +27,7 @@ order: 2
 
 --- 
 <br>
+
 **Projects completed** (2018 - March 2023) <br>
 
 **<ins>Clincial Informatics</ins>**
