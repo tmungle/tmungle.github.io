@@ -9,12 +9,14 @@ order: 2
 **Current Projects** (July 2023 onwards - ongoing) <br>
 
 **<ins>Clincial Informatics</ins>** 
-- Advancing Ocular Phenotype Identification using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
-	- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to identify (and annotate) phenotypes as compared to traditional methods thereby by reducing human efforts
-	- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
-- Enhancing Accurate Identification of Occular Phenotypes from Real-World Datasets [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
-	- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
-	- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability. 
+**Enhancing Ocular Phenotype Identification**
+_Collaborators_: Universit of Michigan
+	- Advancing Ocular Phenotype Identification using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
+		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to identify (and annotate) phenotypes as compared to traditional methods thereby by reducing human efforts
+		- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
+	- Machine Learning Methods for Acurate Identification of Ocular Phenotypes from Real-World Datasets [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
+		- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
+		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability. 
 - Assessment of Acute Lymphoblastic Leukemia (ALL) Maintenance Therapy (MT) Practice at LPCH Hospital, Stanford using allMT R library and VIATAMIN application (***Co-Investigator***)
 	- The objective is to utilize the allMT and VIATAMIN application to analyze MT data for LPCH hospital ALL patients, and test the adaptability and generalizability of the tools in diverse healthcare settings, contributing to broader use.
 - Inflammatory Bowel Disease Outcomes among Hospitalized Homeless Individuals
