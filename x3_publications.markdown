@@ -14,12 +14,11 @@ order: 3
    	- Aruljyothi, L., **Mungle, T.**, Woodward, M., et.al., Evaluating the efficacy of zero-shot LLMs in the extraction of microbial keratitis descriptors. _(to be communicated to Cornea)_
  	- Al-Garadi, M., Sarker, A., **Mungle, T.**, et.al., Large language models in healthcare (to be communicated to Nature Machine Intelligence)
 
-- **Under Preparation or Review**
-	- **Mungle, T.**, Andrews, C.A., An, H.S.,et.al., Ensemble Learning to Enhance Identification of Patients with Phenotypes of Interest in Real World Datasets, **JAMIA (under review)**
-	- **Mungle, T.**, Andrews, C.A., An, H.S., et.al., Leveraging structured and unstructured data to accurately identify patients with glaucoma for studies involving real-world data. _(to be communicated to Ophthalmology)_
-	- **Mungle, T.**, Charu, V., and Okafor, P.N., Inflammatory bowel disease outcomes among hospitalized homeless individuals; **Digestive Diseases and Sciences (under review)**
- 	- AlGaradi, M., Sarker, A., **Mungle, T.**, et.al., Large language models in healthcare (to be communicated to Nature Machine Intelligence)
-    	- Aruljyothi, L., **Mungle, T.**, Woodward, M., et.al., Evaluating the efficacy of zero-shot LLMs in the extraction of microbial keratitis descriptors. _(to be communicated to Cornea)_
+- **Conferences**
+	- **Mungle, T.**, Andrews, C.A., Pershing, S., et.al., 2025. Large language models using free text clinical notes outperform ICD coding in properly identifying patients with and without glaucoma. In: 2025 ARVO Annual Meeting, May 4-8, Salt Lake City, Utah. **(Accepted)**
+	- Aruljyothi L, **Mungle T**, Woodward MA, Prajna VN, Nallasamy N., 2025. A Comparison of Zero-Shot LLM and Standard NLP Approaches for the Extraction of Microbial Keratitis Descriptors from Clinical Records, In: 2025 ARVO Annual Meeting, May 4-8, Salt Lake City, Utah. **(Accepted)**
+	- **Mungle, T.**, Andrews, C.A., An, H.S., et.al., A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories. American Glaucoma Society, Feb 26-March 2; Washington, DC **(Accepted as Top 5 Plenary Paper Presentations)**
+ 	
 
 - **Conferences**
   	- **Mungle, T.**, Andrews, C.A., Pershing, S., et.al., 2025. Large language models using free text clinical notes outperform ICD coding in properly identifying patients with and without glaucoma. In: 2025 ARVO Annual Meeting, May 4-8, Salt Lake City, Utah. **(Accepted)**
