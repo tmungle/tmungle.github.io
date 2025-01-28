@@ -5,10 +5,25 @@ permalink: /x1_projects/
 order: 2
 ---
 
-
 **Current Projects** (July 2023 onwards - ongoing) <br>
-- **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
-<ins>Collaborators</ins>: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
+
+**<ins>Clincial Informatics</ins>**
+
+- **Advancing Ocular Phenotype Identification Using Real-World Datasets** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
+<ins>Collaborators</ins>: University of Michigan
+	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden 
+		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to identify (and annotate) phenotypes as compared to traditional methods thereby by reducing human efforts
+		- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
+	- Modelling clinical decision processes 
+		- Developed a dose advice software prototype to assist physician in personalizing dose prescription during MT
+		- Developed a pill reminder mobile application for patients 	 
+	- Pilot study to understand the effect of allopurinol adjuvant during MT
+		- <ins>Translation and Clinical Relevance</ins>: Study showed clinical benefit in mitigating non-haematological 6MP toxicity. However, close monitoring with this intervention along with pharmacological monitoring is required in future. 
+	- Evolution of virtual care management of MT in ALL at TMC
+		- <ins>Translation and Clinical Relevance</ins>: The transition from in-person visits to e-mailing the blood count reports during MT reduced the financial burden and improved quality of life for patients and families <br>
+----------------
+**Current Projects** (July 2023 onwards - ongoing) <br>
+
 - **Advancing Ocular Phenotype Identification Using Real-World Datasets**
 <ins>Collaborators</ins>: University of Michigan
   	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
@@ -17,8 +32,6 @@ order: 2
 	- Using Expalainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
 		- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
 		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability.
-- **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
-<ins>Collaborators</ins>: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
 - Assessment of Acute Lymphoblastic Leukemia (ALL) Maintenance Therapy (MT) Practice at LPCH Hospital, Stanford using allMT R library and VIATAMIN application (***Co-Investigator***)
 <ins>Collaborators</ins>: Pediatric Hematology, Oncology, Stem Cell Transplantation & Regenerative Medicine, Stanford University
 	- The objective is to utilize the allMT and VIATAMIN application to analyze MT data for LPCH hospital ALL patients, and test the adaptability and generalizability of the tools in diverse healthcare settings, contributing to broader use.
