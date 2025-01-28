@@ -10,8 +10,8 @@ order: 3
 - **Under Preparation or Review**
 	- **Mungle, T.**, Andrews, C.A., An, H.S.,et.al., Ensemble Learning to Enhance Identification of Patients with Phenotypes of Interest in Real World Datasets, **JAMIA (under review)**
 	- **Mungle, T.**, Andrews, C.A., An, H.S., et.al., Leveraging structured and unstructured data to accurately identify patients with glaucoma for studies involving real-world data. 
-	- **Mungle, T.**, Charu, V., and Okafor, P.N., Inflammatory bowel disease outcomes among hospitalized homeless individuals; **Digestive Diseases and Sciences (under review)**
-   	- Aruljyothi, L., **Mungle, T.**, Woodward, M., et.al., Evaluating the efficacy of zero-shot LLMs in the extraction of microbial keratitis descriptors. 
+	- **Mungle, T.**, Charu, V., and Okafor, P.N., Inflammatory bowel disease outcomes among hospitalized homeless individuals; **Digestive Diseases and Sciences (under review)** <br>
+   	- Aruljyothi, L., **Mungle, T.**, Woodward, M., et.al., Evaluating the efficacy of zero-shot LLMs in the extraction of microbial keratitis descriptors. <br>
  	- Al Garadi, M., Sarker, A., **Mungle, T.**, et.al., Large language models in healthcare 
 
 - **Conferences**
