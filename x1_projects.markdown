@@ -27,9 +27,8 @@ order: 2
 
 **<ins>Clincial Informatics</ins>**
 
-- **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
-  
-_Collaborators_: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
+- **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"} \\
+	-_Collaborators_: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
 	- Develop a [data repository](https://data.mendeley.com/datasets/775hs9wrb5/1) for MT from paper and electronic based records 
 	- Analyzing MT practice for patients who completed ALL tretment
 		- <ins>Translation and Clinical Relevance</ins>: Dosing protocol was revisited by hospital’s pediatric ALL team and attempts were made to adhere to the MT protocol
