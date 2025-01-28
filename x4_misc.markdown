@@ -12,9 +12,9 @@ University, Oct ’24
 Department of Pediatrics, Stanford University, May ’24
 - Clinical Utility and Feasibility of ML models (Net Benefit and Decision Curve Analysis), BIOMED 223, Stanford University, April '24
 - _Conference Talks_
-	- A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories. (American Glaucoma Society) (to be presented as Top 5 Plenary Paper Presentations in March '25)
+	- A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories. (American Glaucoma Society) (**_to be presented as Top 5 Plenary Paper Presentations_** in March '25)
 	- Multi-modal Ensemble Learning for Accurate Detection of Glaucoma; (AMIA), Nov ’24
-	- Developing an automated dose advice programme to assist adaptive antimetabolite does decisions during MT in ALL; (XIIIth SIOP Asia), March ’21 (Special Award)
+	- Developing an automated dose advice programme to assist adaptive antimetabolite does decisions during MT in ALL; (XIIIth SIOP Asia), March ’21 (_**Special Mention and Award**_)
 
 **Leadership**
 - Co-Chair, Stanford PostDoc Symposium, Stanford University March ’24
@@ -34,10 +34,10 @@ Department of Pediatrics, Stanford University, May ’24
 - Academic
 	- Selected as one of the Top Paper at American Glaucoma Society '25 Annual Meeting (Top 5 Plenary Paper Presentations)
 	- Travel grant - 11th International Symposium on Pneumococci and Pneumococcal Disease, Australia, April ’18
-	- University rank 3rd, Bachelor of Engineering
+	- **University rank 3rd**, Bachelor of Engineering
 
 - Non-Academic
-	- Silver and gold medal at Manipal University Inter Collegiate Chess Tournament ’12 and ’13 respectively
-	- 3rd place in RTMNU University Chess Team Championship, July’10- June ’11
+	- **Silver** and **gold** medal at Manipal University Inter Collegiate Chess Tournament ’12 and ’13 respectively
+	- **3rd place** in RTMNU University Chess Team Championship, July’10- June ’11
 
 [Homepage](/)
