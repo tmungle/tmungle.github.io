@@ -9,7 +9,7 @@ order: 2
 **Current Projects** (July 2023 onwards - ongoing) <br>
 
 **<ins>Clincial Informatics</ins>** 
-- Advancing Ocular Phenotype Identification Using Real-World Datasets
+- **Advancing Ocular Phenotype Identification Using Real-World Datasets**
 <u>Collaborators</u>: University of Michigan
   	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
 		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to identify (and annotate) phenotypes as compared to traditional methods thereby by reducing human efforts
