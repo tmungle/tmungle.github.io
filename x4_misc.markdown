@@ -37,7 +37,7 @@ Department of Pediatrics, Stanford University, May ’24
 	- University rank 3rd, Bachelor of Engineering
 
 - Non-Academic
-	- <ins>Silver<\ins> and gold medal at Manipal University Inter Collegiate Chess Tournament ’12 and ’13 respectively
+	- <u>Silver</u> and gold medal at Manipal University Inter Collegiate Chess Tournament ’12 and ’13 respectively
 	- 3rd place in RTMNU University Chess Team Championship, July’10- June ’11
 
 [Homepage](/)
