@@ -9,7 +9,7 @@ order: 2
 **Current Projects** (July 2023 onwards - ongoing) <br>
 
 - **Advancing Ocular Phenotype Identification Using Real-World Datasets**
-  <u>Collaborators</u>: University of Michigan
+<ins>Collaborators</ins>: University of Michigan
   	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
 		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to identify (and annotate) phenotypes as compared to traditional methods thereby by reducing human efforts
 		- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
@@ -17,7 +17,7 @@ order: 2
 		- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
 		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability. 
 - Assessment of Acute Lymphoblastic Leukemia (ALL) Maintenance Therapy (MT) Practice at LPCH Hospital, Stanford using allMT R library and VIATAMIN application (***Co-Investigator***)
-<u>Collaborators</u>: Pediatric Hematology, Oncology, Stem Cell Transplantation & Regenerative Medicine, Stanford University
+<ins>Collaborators</ins>: Pediatric Hematology, Oncology, Stem Cell Transplantation & Regenerative Medicine, Stanford University
 	- The objective is to utilize the allMT and VIATAMIN application to analyze MT data for LPCH hospital ALL patients, and test the adaptability and generalizability of the tools in diverse healthcare settings, contributing to broader use.
 - Inflammatory Bowel Disease Outcomes among Hospitalized Homeless Individuals
 	- Propensity score matching methods was used to analysed impact of homelessness on endoscopy utilization, surgical treatment and post-operative complications among hospitalized patients with ulcerative colitis and Crohn's disease.
@@ -30,7 +30,7 @@ order: 2
 **<ins>Clincial Informatics</ins>**
 
 - **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
-<u>Collaborators</u>: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
+<ins>Collaborators</ins>: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
 	- Develop a [data repository](https://data.mendeley.com/datasets/775hs9wrb5/1) for MT from paper and electronic based records 
 	- Analyzing MT practice for patients who completed ALL tretment
 		- <ins>Translation and Clinical Relevance</ins>: Dosing protocol was revisited by hospital’s pediatric ALL team and attempts were made to adhere to the MT protocol
