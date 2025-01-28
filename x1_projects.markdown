@@ -9,12 +9,12 @@ order: 2
 
 **<ins>Clincial Informatics</ins>**
 
-- **Advancing Ocular Phenotype Identification Using Real-World Datasets** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
+- **Advancing Ocular Phenotype Identification Using Real-World Datasets** 
 <ins>Collaborators</ins>: University of Michigan
 	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden 
 		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to identify (and annotate) phenotypes as compared to traditional methods thereby by reducing human efforts
 		- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
-	- Using Expalainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
+	- Using Explainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
 		- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
 		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability.
 - Assessment of Acute Lymphoblastic Leukemia (ALL) Maintenance Therapy (MT) Practice at LPCH Hospital, Stanford using allMT R library and VIATAMIN application (***Co-Investigator***)
