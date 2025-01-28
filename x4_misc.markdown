@@ -12,7 +12,7 @@ University, Oct ’24
 Department of Pediatrics, Stanford University, May ’24
 - Clinical Utility and Feasibility of ML models (Net Benefit and Decision Curve Analysis), BIOMED 223, Stanford University, April '24
 - Conference Talks
-  	- A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories.} (American Glaucoma Society) (to be presented as Top 5 Plenary Paper Presentations in March '25)
+  	- A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories. (American Glaucoma Society) (to be presented as Top 5 Plenary Paper Presentations in March '25)
 	- Multi-modal Ensemble Learning for Accurate Detection of Glaucoma; (AMIA), Nov ’24
 	- Developing an automated dose advice programme to assist adaptive antimetabolite does decisions during MT in ALL; (XIIIth SIOP Asia), March ’21 (Special Award)
 
