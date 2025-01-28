@@ -7,7 +7,7 @@ order: 3
 
 **Publications**
 
-- Under Preparation or Review
+- **Under Preparation or Review**
 	- **Mungle, T.**, Andrews, C.A., An, H.S., Naderalvojoud, B., Pershing, S., Bicket, A.K., Rosenthal, J.M., Zhang, A.D., Lee, W.-S., Ludwig, C., Mekonnen, B., and Stein, J.D., Hernandez-Boussard, T., Ensemble Learning to Enhance Identification of Patients with Phenotypes of Interest in Real World Datasets, **JAMIA (under review)**
 	- **Mungle, T.**, Andrews, C.A., An, H.S., Naderalvojoud, B., Pershing, S., Bicket, A.K., Rosenthal, J.M., Zhang, A.D., Lee, W.-S., Ludwig, C., Mekonnen, B., Hernandez-Boussard, T., and Stein, J.D., Leveraging structured and unstructured data to accurately identify patients with glaucoma for studies involving real-world data. _(to be communicated to Ophthalmology)_
 	- **Mungle, T.**, Charu, V., and Okafor, P.N., Inflammatory bowel disease outcomes among hospitalized homeless individuals; **Digestive Diseases and Sciences (under review)**
