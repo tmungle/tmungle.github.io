@@ -12,7 +12,7 @@ order: 3
 	- **Mungle, T.**, Andrews, C.A., An, H.S., et.al., Leveraging structured and unstructured data to accurately identify patients with glaucoma for studies involving real-world data. _(to be communicated to Ophthalmology)_
 	- **Mungle, T.**, Charu, V., and Okafor, P.N., Inflammatory bowel disease outcomes among hospitalized homeless individuals; **Digestive Diseases and Sciences (under review)**
    	- Aruljyothi, L., **Mungle, T.**, Woodward, M., et.al., Evaluating the efficacy of zero-shot LLMs in the extraction of microbial keratitis descriptors. _(to be communicated to Cornea)_
- 	- AlGaradi, M., Sarker, A., **Mungle, T.**, et.al., Large language models in healthcare (to be communicated to Nature Machine Intelligence)
+ 	- Al-Garadi, M., Sarker, A., **Mungle, T.**, et.al., Large language models in healthcare (to be communicated to Nature Machine Intelligence)
 
 - **Under Preparation or Review**
 	- **Mungle, T.**, Andrews, C.A., An, H.S.,et.al., Ensemble Learning to Enhance Identification of Patients with Phenotypes of Interest in Real World Datasets, **JAMIA (under review)**
