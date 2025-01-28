@@ -8,12 +8,13 @@ order: 3
 **Publications**<br>
 
 - Under Preparation or Review
-	- Enhanced Phenotype Identification of Common Ocular Diseases in Real-World Datasets; Ophthalmology-Science; (under review)
-	- Ensemble Learning to Enhance Identification of Patients With Phenotypes of Interest in Real World Datasets 
-	- Leveraging Structured and Unstructured Data to Accurately Identify Patients With Glaucoma for Studies Involving Real-World Data
-	- Inflammatory Bowel Disease Outcomes among Hospitalized Homeless Individuals
+	- **Mungle, T.**, Andrews, C.A., An, H.S., Naderalvojoud, B., Pershing, S., Bicket, A.K., Rosenthal, J.M., Zhang, A.D., Lee, W.-S., Ludwig, C., Mekonnen, B., and Stein, J.D., Hernandez-Boussard, T., Ensemble Learning to Enhance Identification of Patients with Phenotypes of Interest in Real World Datasets, **JAMIA** (under review)
+	- **Mungle, T.**, Andrews, C.A., An, H.S., Naderalvojoud, B., Pershing, S., Bicket, A.K., Rosenthal, J.M., Zhang, A.D., Lee, W.-S., Ludwig, C., Mekonnen, B., Hernandez-Boussard, T., and Stein, J.D., Leveraging structured and unstructured data to accurately identify patients with glaucoma for studies involving real-world data. _(to be communicated to Ophthalmology)_
+	- **Mungle, T.**, Charu, V., and Okafor, P.N., Inflammatory bowel disease outcomes among hospitalized homeless individuals; **Digestive Diseases and Sciences (under review)**
+   	- Al-Garadi, M., Sarker, A., **Mungle, T.**, Ahmed, A., Miao, Z. and Matheny, M.E., Large language models in healthcare (to be communicated to Nature Machine Intelligence)
+   	- Aruljyothi, L., **Mungle, T.**, Woodward, M., Prajna, N.V., Nallasamy, N., and Nuijt, R.M.M.A., Evaluating the efficacy of zero-shot LLMs in the extraction of microbial keratitis descriptors. **(to be communicated to Cornea)**
 
 - [Google Scholar](https://scholar.google.com/citations?user=7YMfkdIAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-2109-3248) 
 
-[Homepage](/index/)
+[Homepage](/)
