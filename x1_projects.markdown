@@ -7,7 +7,7 @@ order: 2
 
 **Current Projects** (July 2023 onwards - ongoing) <br>
 
-**<ins>Clincial Informatics</ins>**
+**<ins>Clincial Informatics</ins>** <br>
 
 - **Advancing Ocular Phenotype Identification Using Real-World Datasets** 
 <ins>Collaborators</ins>: University of Michigan
