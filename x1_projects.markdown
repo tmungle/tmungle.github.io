@@ -71,4 +71,4 @@ order: 2
 	- Methods: k-means; fuzzy c-means; spectral clustering, markov random fields; ensemble learning; neural networks
 
 
-[Homepage](/index/)
+[Homepage](/index/) [s](/https://tmungle.github.io/)
