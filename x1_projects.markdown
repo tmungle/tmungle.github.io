@@ -7,7 +7,8 @@ order: 2
 
 
 **Current Projects** (July 2023 onwards - ongoing) <br>
-
+- **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"}
+<ins>Collaborators</ins>: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
 - **Advancing Ocular Phenotype Identification Using Real-World Datasets**
 <ins>Collaborators</ins>: University of Michigan
   	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden
