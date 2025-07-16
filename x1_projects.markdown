@@ -12,9 +12,9 @@ order: 2
 - **Advancing Ocular Phenotype Identification Using Real-World Datasets** <br>
 <ins>Collaborators</ins>: University of Michigan
 	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden 
-		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to [(**identify**)](/media/LLM_for_Phenotype_Identification.pdf)) (OR [(**annotate**)](/media/LLM_as_Medical_Annotator.pdf)) phenotypes as compared to traditional methods thereby by reducing human efforts
+		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to [**identify**](/media/LLM_for_Phenotype_Identification.pdf)) (OR [**annotate**](/media/LLM_as_Medical_Annotator.pdf)) phenotypes as compared to traditional methods thereby by reducing human efforts
 		- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
-	- Using Explainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
+	- Using Explainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf)
 		- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
 		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability.
 
