@@ -13,11 +13,12 @@ Department of Pediatrics, Stanford University, May ’24
 - Clinical Utility and Feasibility of ML models (Net Benefit and Decision Curve Analysis), BIOMED 223, Stanford University, April '24, '25
 - Evaluating ML model fairness - A hands on session, BIOMEDIN 223, Stanford University (Apr '25)
 - _Conference Talks_
-	- A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories. (American Glaucoma Society) (_to be presented_ in March '25)
+	- A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories. (American Glaucoma Society, '25) (Top 5 Plenary Paper Award)
 	- Multi-modal Ensemble Learning for Accurate Detection of Glaucoma; (AMIA), Nov ’24
 	- Developing an automated dose advice programme to assist adaptive antimetabolite does decisions during MT in ALL; (XIIIth SIOP Asia), March ’21 (_<u>Special Mention and Award</u>_)
 
 **Leadership**
+- Co-Chair, Stanford PostDoc Festival, Stanford University, June '25
 - Co-Chair, Stanford PostDoc Symposium, Stanford University March ’24
 - Team Lead, Maintainance Therapy Project, TTCRC, Tata Medical Center, '20-'23
 - Chief organizing committee member, Illuminati2k16 event, IIT Kharagpur ’16
