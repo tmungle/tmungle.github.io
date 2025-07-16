@@ -31,7 +31,7 @@ order: 2
 	- Analyzing MT practice for patients who completed ALL tretment
 		- <ins>Translation and Clinical Relevance</ins>: Dosing protocol was revisited by hospital’s pediatric ALL team and attempts were made to adhere to the MT protocol
 		- Developed [allMT R library](https://cran.r-project.org/web/packages/allMT/index.html){:target="_blank"} to analyze MT data
-		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/) as an assitive and audit tool for physicians to deliver optimal MT
+		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/){:target="_blank"} as an assitive and audit tool for physicians to deliver optimal MT
 	- Modelling clinical decision processes 
 		- Developed a dose advice software prototype to assist physician in personalizing dose prescription during MT
 		- Developed a pill reminder mobile application for patients 	 
