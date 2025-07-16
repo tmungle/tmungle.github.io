@@ -10,7 +10,8 @@ order: 5
 University, Oct ’24
 - How Informatics Helped Deliver Optimal Maintenance Therapy During Acute Lymphoblastic Leukemia Treatment,
 Department of Pediatrics, Stanford University, May ’24
-- Clinical Utility and Feasibility of ML models (Net Benefit and Decision Curve Analysis), BIOMED 223, Stanford University, April '24
+- Clinical Utility and Feasibility of ML models (Net Benefit and Decision Curve Analysis), BIOMED 223, Stanford University, April '24, '25
+- Evaluating ML model fairness - A hands on session, BIOMEDIN 223, Stanford University (Apr '25)
 - _Conference Talks_
 	- A multimodal machine learning approach to accurately identify patients with glaucoma in real world data repositories. (American Glaucoma Society) (_to be presented_ in March '25)
 	- Multi-modal Ensemble Learning for Accurate Detection of Glaucoma; (AMIA), Nov ’24
