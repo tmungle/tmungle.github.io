@@ -28,9 +28,10 @@ Department of Pediatrics, Stanford University, May ’24
 
 **Service**
 - Reviewer
-	1. Journal of the American Medical Informatics Association
-	2. Nature Communications
+	1. Journal of the American Medical Informatics Association ('24, '25)
+	2. Nature Communications ('24)
 	3. AMIA 2025 Clinical Informatics Conference
+  	4. AMIA 2025 Annual Symposium
 
 **Awards and Achievments**
 - _Academic_
