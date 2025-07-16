@@ -15,13 +15,6 @@ order: 4
 - Deploying and Evaluating Fair AI in Healthcare (BIOMED 223), Stanford University ('25 (Lead TA), '24 Spring)
 - Pattern Recognition & Machine Intelligence in Medicine at SMST, IIT Kharagpur x(’15-’16; Spring)
 - Quantitative Techniques in Medicine at SMST, IIT Kharagpur, (’15-’16; Autumn)
-
-**Talks/Lectures**
-
-- Advancing Ocular Phenotype Recognition with LLMs; Department of Ophthalmology, Stanford University (Oct ’24)
-- How Informatics Help Deliver Optimal MT During ALL Treatment, Division of Hematology, Oncology, Stem Cell Transplantation and Regenerative Medicine, School of Medicine, Stanford University (May ’24)
-- Decision Curves and Net Benefit Analysis, BIOMEDIN 223, Stanford University (Apr ’24, ‘25)
-- Evaluating ML model fairness, BIOMEDIN 223, Stanford University (Apr '25)
   
 **Course Developed** 
 
