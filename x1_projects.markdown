@@ -12,9 +12,9 @@ order: 2
 - **Advancing Ocular Phenotype Identification Using Real-World Datasets** <br>
 <ins>Collaborators</ins>: University of Michigan
 	- Using Large Language Models (LLMs): Streamlining Clinical Assessments to Reduce Human Burden 
-		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to [**identify**](/media/LLM_for_Phenotype_Identification.pdf) (OR [**annotate**](/media/LLM_as_Medical_Annotators.pdf)) phenotypes as compared to traditional methods thereby by reducing human efforts
+		- A multi-site study, aims to understand use of LLMs to improve utilization of longitudinal unstructured clinical data to [**identify**](/media/LLM_for_Phenotype_Identification.pdf){:target="_blank"} (OR [**annotate**](/media/LLM_as_Medical_Annotators.pdf)){:target="_blank"} phenotypes as compared to traditional methods thereby by reducing human efforts
 		- Understand LLM-based systems with different prompting strategies and retrieval augmented generation techniques to reduce time and cost.
-	- Using Explainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf)
+	- Using Explainable and Fair Machine Learning Methods [(**Graphical Abstract**)](/media/GLA_Ensemble.pdf){:target="_blank"}
 		- Use of various resampling techniques and ensemble learning to build ML models using structured and unstructured data to improve accurate detection of patients with and without glaucoma. The proposed method performed better than traditional structured data ML models. 
 		- Models were evaluated for fairness and biases across various demographic sub-groups. Additionally, uncertainity evaluation for model predictions was proposed. Further, ML models were evaluated for explainability.
 
@@ -27,10 +27,10 @@ order: 2
 
 - **Design, Development and Implementation of Data-Driven Strategies in acute lymphoblastic leukemia (ALL) maintenance therapy (MT) at Tata Medical Center, India** [(**Graphical Abstract**)](/media/ALL_MT.pdf){:target="_blank"} <br>
 <ins>Collaborators</ins>: Indian Statistical Institute, Kolkata, India; PGIMER, Chandigarh, India, Tata Consultancy Services, India
-	- Develop a [data repository](https://data.mendeley.com/datasets/775hs9wrb5/1) for MT from paper and electronic based records 
+	- Develop a [data repository](https://data.mendeley.com/datasets/775hs9wrb5/1){:target="_blank"} for MT from paper and electronic based records 
 	- Analyzing MT practice for patients who completed ALL tretment
 		- <ins>Translation and Clinical Relevance</ins>: Dosing protocol was revisited by hospital’s pediatric ALL team and attempts were made to adhere to the MT protocol
-		- Developed [allMT R library](https://cran.r-project.org/web/packages/allMT/index.html) to analyze MT data
+		- Developed [allMT R library](https://cran.r-project.org/web/packages/allMT/index.html){:target="_blank"} to analyze MT data
 		- Developed [VIATAMIN application](https://ananyam.shinyapps.io/VIATAMIN/) as an assitive and audit tool for physicians to deliver optimal MT
 	- Modelling clinical decision processes 
 		- Developed a dose advice software prototype to assist physician in personalizing dose prescription during MT
